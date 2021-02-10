@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../cognition_Navarro_Facundo.srcs/sources_1/new/Gen_Data_Ctrl.vhd" \
+"../../../../cognition_Navarro_Facundo.srcs/sim_1/new/tb_Gen_Data_Ctrl.vhd" \
+
+# Do not sort compile order
+nosort
